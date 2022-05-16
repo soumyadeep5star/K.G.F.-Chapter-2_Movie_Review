@@ -12,9 +12,6 @@ In this notebook the User Review of the movie KGF Chapter-2 in the IMDb website 
 
 I have used Octoparse tool for webscarping the IMDb data.
 
-Click [Here](https://www.octoparse.com/) to download Octoparse tool for webscraping.
-
-Click [Here](https://drive.google.com/file/d/1l9A1qSpDswWs1ImPK1wWLIxN_pXc0UN-/view?usp=sharing) to get the KGF Chapter 2 IMDb User Review dataset for performing NLP.
 """
 
 # Connecting google drive to this notebook
